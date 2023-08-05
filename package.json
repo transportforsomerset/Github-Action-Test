@@ -18,5 +18,8 @@
   "homepage": "https://github.com/transportforsomerset/hello-world-javascript-action",
   "dependencies": {
     "@actions/core": "^1.10.0"
+  },
+  "engines": {
+    "node": ">=16.14"
   }
 }
