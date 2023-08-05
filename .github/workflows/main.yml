@@ -7,8 +7,6 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: actions/core
-        with:
         uses: transportforsomerset/hello-world-javascript-action@main
         with:
           who-to-greet: 'Passenger'
