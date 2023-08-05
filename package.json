@@ -1,0 +1,19 @@
+{
+  "name": "Hello World JavaScript Action",
+  "description": "Hello World JavaScript Action",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/transportforsomerset/hello-world-javascript-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transportforsomerset/hello-world-javascript-action/issues"
+  },
+  "homepage": "https://github.com/transportforsomerset/hello-world-javascript-action"
+}
